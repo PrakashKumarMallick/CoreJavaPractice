@@ -1,0 +1,2 @@
+inheritance.B
+inheritance.A
